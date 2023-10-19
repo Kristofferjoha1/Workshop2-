@@ -12,7 +12,7 @@ int BinSearch(int array[], int x);
 int main(void){
   int x;
   char filename[20];
-  FILE *myFile;
+  FILE *myFile; 
   int array[N];
   int k;
   /*change this for more or less runs of the algorithm*/
